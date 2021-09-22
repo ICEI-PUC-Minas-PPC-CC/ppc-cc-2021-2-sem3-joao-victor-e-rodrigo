@@ -1,11 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ Projeto de Reestruturação do Site da Instituição usando WordPress - AADV, AADV entrou em contato com a PUC Poços de Caldas pedindo ajuda para reformular o seu site, o qual foi informado que está com um visual ultrapassado, e necessitavam de um site atualizado, com ferramentas e visual novo, para que consigam alcaçar mais pessoas através de um layout chamativo em sua home page e que fique de facil intendimento para que qualquer publico consiga interagir com o site.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+ Nos foi informado através do professor Will que a AADV precisava de atualizações de design em seu site, procurando deixar o site com temas modernos para que fique de facil entendimento  para seu publico então entraremos na parte de design, procurando suprir e até mesmo ir além do esperado.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
@@ -16,9 +16,10 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+ Nosso objetivo para solução do problema, seria intalar um novo tema (pai e filho) editar seu layout de uma maneira que ocupe apenas o espaço necessario e não fique com muitas informações para que não polua o olhar do publico.
+ Escolher uma palheta de cores e letras, usar de maneira moderada para que o publico não se sinta incomodado com o site.
+ 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
