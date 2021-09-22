@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Rodrigo F. M. Nogueira
-- João Victor
+- João Victor Zanolli
 
 ## Professor
 
