@@ -26,19 +26,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+ Nossa maior motivação é conseguir transformar esse site em algo mais atual, e juntamente com isso desenvolver nosso sistema de criação em design e idéias para solução de problemas, os quais nos foram solicitados. Diante de pesqusas feitas temos total convicção que o design do site tem total influencia na permanencia ou saida do usuario do seu site, e estamos motivados em mudar isso para que possamos atender as necessidades da AADV e aprender com está solução.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+ O público alvo a quem atenderemos será: Pessoas de diferentes idades que possuem deficiencia visual em seus amplos estados, ou seus parentes/amigos o qual entrarão no site para fazer contato para conversar sobre seus serviços.
+ Eles podem ou não ter conhecimento de tecnologia, mas facilitaremos ao maximo a vizualização do úsuario para que não seja impencilio encontrar o que se procura dentro do mesmo.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
