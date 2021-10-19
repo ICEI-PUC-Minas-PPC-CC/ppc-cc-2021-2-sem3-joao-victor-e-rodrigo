@@ -3,9 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Diante dos templates da Astra, escolhemos o de mais praticidade para quem for acessar, contendo informações sobre contato e sobre oque é a associação para um melhor entendimento de quem for acessar e com isso utilizamos também, vídeos já postados pela AADV para ilustrar o site. Trazendo um ambiente mais moderno e não saindo tanto do padrão do último site já feito contendo espaço para postagem de artigos e/ou notícias sobre a associação como pedido nos requesitos.
 
 ## User Flow
 
