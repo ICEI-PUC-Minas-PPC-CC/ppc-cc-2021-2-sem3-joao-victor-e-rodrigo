@@ -8,6 +8,7 @@ Diante dos templates da Astra, escolhemos o de mais praticidade para quem for ac
 ![image](https://user-images.githubusercontent.com/46138314/137827638-97fcf9b9-46c8-4948-a921-810ea4fed082.png)
 ![image](https://user-images.githubusercontent.com/46138314/137827658-6716cf38-5c35-46dd-8b21-3a8aef288a3e.png)
 
+*Demais páginas ainda estão sendo desenvolvidas
 
 -----------------------------------------------------------------
 
